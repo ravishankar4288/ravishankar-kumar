@@ -1,0 +1,23 @@
+##  Some of the practical applications of a circular linked list are:
+
+(1) Working of Time Sharing Operating Systems.
+When more than one task is given by the user, then the division of CPU time for each process is decided by the operating system using Circular Linked Lists.
+
+
+(2) Used in Multiple Player board game.
+In a multiple player board game, the circular linked list is used to keep track of the players.
+
+
+(3) Image Viewer.
+In an image viewer, the circular linked list is used to keep track of the images. Previous and next images are linked, hence can be accessed by the next and previous button.
+
+
+(4) Previous and next page in a web browser
+In a web browser, the circular linked list is used to keep track of the previous and next page. We can access the previous and next URL searched in a web browser by pressing the back and next buttons since they are linked as a linked list.
+
+
+(5) Music Player
+In a music player, the circular linked list is used to keep track of the songs. Songs in the music player are linked to the previous and next songs. you can play songs either from starting or ending of the list.
+
+
+
